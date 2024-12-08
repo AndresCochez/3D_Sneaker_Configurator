@@ -1,0 +1,11 @@
+Model Information:
+* title:	Skate Pool in Downtown Durham, NC
+* source:	https://sketchfab.com/3d-models/skate-pool-in-downtown-durham-nc-17cf3fb484fd431eb1431103f85bd012
+* author:	Peter Katz (https://sketchfab.com/peterkatz)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Skate Pool in Downtown Durham, NC" (https://sketchfab.com/3d-models/skate-pool-in-downtown-durham-nc-17cf3fb484fd431eb1431103f85bd012) by Peter Katz (https://sketchfab.com/peterkatz) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
